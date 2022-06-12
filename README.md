@@ -1,4 +1,4 @@
-# Curso básica de Python 
+# Curso básico de Python 
 
 En este curso aprenderás a programar en python 
 
